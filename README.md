@@ -1,6 +1,6 @@
  - [![MscCoderCalix](https://img.shields.io/badge/MscCoder-Calixto_Villega-1877F2?style=for-the-badge&logo=probot&logoColor=white&labelColor=black)]()</br>
  ---
-# NavControllerBasic
+# NavControllerBasico
  
 Uso basico del control NavController de Jetpack Compose para navegar entre los elementos que admiten composición, se crearon cuatro pantallas con el objetivo de navegar entre ellas usando el NavController y aplicando la metodologia recomendado en la documentacion oficial. con esta practica aprendimos a: Cómo navegar por llamadas que activan otras funciones de componibilidad, Cómo pasar y recuperar argumentos obligatorios y opcionales a una funcion de componibilidad
 __________________________
